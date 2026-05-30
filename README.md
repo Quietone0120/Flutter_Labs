@@ -1,2 +1,9 @@
-# Flutter_Labs
-Flutter learning projects and assignments
+# Flutter Labs
+
+Flutter laboratory exercises and practice projects.
+
+## Topics
+- Widgets
+- Layouts
+- State Management
+- Navigation
